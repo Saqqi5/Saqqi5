@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Saqlain 👋
 
-<!--
-**Saqqi5/Saqqi5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Compliance & Risk Officer  
+- AI Enthusiast  
+- Content Creator  
 
-Here are some ideas to get you started:
+## 💡 What I Do
+- Resume (CV) Designing  
+- AI Tools & Automation  
+- Social Media Content  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus
+- Web Development  
+- SaaS Projects  
+- GitHub Learning  
+
+## 🛠 Skills
+- Communication  
+- Problem Solving  
+- Planning & Organizing  
+- Artificial Intelligence  
+
+## 📫 Contact Me
+- Email: saqlainmushtaq555@gmail.com  
+
+---
+
+⭐ “Consistency beats talent when talent doesn't work hard”
